@@ -50,6 +50,8 @@ Examples of Visualizations:
 ![Top 10 Loss Making Product](LossMakingProduct.png)  
 ![Average Day Required for shipment](shipment.png)
 
+## Folder Structure
+
  
 
 
