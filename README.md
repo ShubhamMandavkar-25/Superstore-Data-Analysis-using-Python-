@@ -41,9 +41,12 @@ Used **Seaborn**, **Matplotlib**, and **Plotly Express** for visualizations.
 
 Key visualizations include:  
 - **Sales trends over time**  
-- **Profit and revenue analysis**  
-- **Category, segment, and regional performance**  
-- **Discount and shipping mode analysis**
+- **Profit and revenue analysis**
 ![Sales by Product](SalesbyProduct.png)
 ![Top 10 Loss Making Product](LossMakingProduct.png)
 ![Average Day Required for shipment](shipment.png)
+  
+- **Category, segment, and regional performance**  
+- **Discount and shipping mode analysis**
+
+
