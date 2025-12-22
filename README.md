@@ -46,9 +46,9 @@ Key visualizations include:
 - **Discount and shipping mode analysis**  
 
 Examples of Visualizations:
-![Sales by Product](SalesbyProduct.png)  
-![Top 10 Loss Making Product](LossMakingProduct.png)  
-![Average Day Required for shipment](shipment.png)
+-![Sales by Product](SalesbyProduct.png)  
+- ![Top 10 Loss Making Product](LossMakingProduct.png)  
+-  ![Average Day Required for shipment](shipment.png)
 
 ## Folder Structure
 
