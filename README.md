@@ -20,11 +20,9 @@ This project analyzes Superstore sales data using Python to uncover patterns, tr
   - Outliers png
   -  ![Outliers in profit](Outliers.png)
   
-
 ### 3. Feature Engineering
 Created new columns to enhance analysis:
 
-```python
 df['Order_Year'] = df['Order Date'].dt.year
 df['Order_Month'] = df['Order Date'].dt.month
 df['Profit_Margin'] = df['Profit'] / df['Sales']
