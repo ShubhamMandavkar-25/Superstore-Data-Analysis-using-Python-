@@ -50,7 +50,16 @@ Examples of Visualizations:
 - ![Top 10 Loss Making Product](LossMakingProduct.png)  
 - ![Average Day Required for shipment](shipment.png)
 
+## 🚀 How to Use
+1. Download the Excel dataset from the `data` folder
+2. Open `.pbix` file using Power BI Desktop
+3. Explore interactive filters and visuals
 
+---
+
+## 👤 Author
+**Shubham Mandavkar**  
+Aspiring Data Analyst | Excel | Power BI | SQL | Python | R Programming
  
 
 
