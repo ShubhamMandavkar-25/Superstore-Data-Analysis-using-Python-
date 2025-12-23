@@ -19,6 +19,7 @@ This project analyzes Superstore sales data using Python to uncover patterns, tr
   - **Boxplots**
   - Outliers png
   -  ![Outliers in profit](Outliers.png)
+  -  ![outliers in profit](SalesbyProduct.png)
 
 ### 3. Feature Engineering
 Created new columns to enhance analysis:
@@ -45,8 +46,8 @@ Key visualizations include:
 - **Category, segment, and regional performance**  
 - **Discount and shipping mode analysis**  
 
-Examples of Visualizations:
-- ![Sales by Product](SalesbyProduct.PNG)  
+### Examples of Visualizations:
+- ![Sales by Product](SalesbyProduct.png) 
 - ![Top 10 Loss Making Product](LossMakingProduct.png)  
 - ![Average Day Required for shipment](shipment.png)
 
